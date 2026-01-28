@@ -79,9 +79,7 @@ This app is made for student and grade management by python3.0
 
     1.Class & subject performance reports
     2.Excel import feature
-    3.GUI using Streamlit    
-
-    I WILL DO THIS CHANGES AFTER MY SEMESTER EXAMINATIONS
+    3.GUI using Streamlit  
 
 ++Conclusion++
 
@@ -91,5 +89,6 @@ The Student Grade Management System is a complete, functional Python application
     2.File persistence
     3.GPA calculations
     4.Excel export    
+
 
 ++++++++++++THANK YOU+++++++++++++    
